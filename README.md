@@ -2,10 +2,14 @@
 
 ## Overview
 
-This simple interactive project enables the user to get the weather of a beloved city based on its Zipcode.
+This interactive project enables the user to discover beloved cities and decide when to visit them based on the weather, location and famous places.
 
 ## Built Using
 
+-HTML
+-CSS
 -JavaScript ES6
 -Express.js
 -Node.js
+-Webpack
+-Jest
