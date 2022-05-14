@@ -13,7 +13,8 @@ document.getElementById('generate').addEventListener('click', callApi);
 function callApi(e){
   e.preventDefault();
 const zip =  document.getElementById('zip').value;
-const feeling = document.getElementById('feelings').value;
+const feeling = document.getElementById('feeling').value;
+
 getWeather(baseURL, zip, apiKey)
     .then(function(data) {
         postData ('/add', {temp:data.list[0].main.temp, date:dateNow , content: feeling})
