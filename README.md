@@ -9,6 +9,7 @@ This interactive project enables the user to discover beloved cities and decide 
 -HTML
 -CSS
 -JavaScript ES6
+-Bootstrap 4
 -Express.js
 -Node.js
 -Webpack
