@@ -1,4 +1,5 @@
-/* import { handleSubmit } from './js/formHandler';
+//Include main JS functions here 
+import { handleSubmit } from './js/formHandler';
 import { currentDate } from './js/currentDate';
 import { minDate } from './js/minDate';
 import { dayDiffCheck } from './js/dayDiffChecker';
@@ -14,4 +15,4 @@ export {
     dayDiffCheck,
     printButton,
     closeButton
-} */
+} 
