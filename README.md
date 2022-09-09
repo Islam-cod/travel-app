@@ -1,4 +1,4 @@
-# Weather-Journal App Project
+# Travel App Project
 ![App Screenshot](https://i.ibb.co/qgTYfsK/travel-app-project-mockup.png)
 ## Overview
 
